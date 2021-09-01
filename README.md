@@ -1,4 +1,4 @@
-# Crawling-Selenium
+# :fireworks: Crawling-Selenium 
 Simple program to download images automatically using selenium
 
 1. index.py is a Crawling that takes words and automatically writes them on a notebook.
